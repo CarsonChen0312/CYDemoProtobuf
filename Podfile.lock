@@ -1,0 +1,16 @@
+PODS:
+  - ProtocolBuffers-Swift (4.0.6)
+
+DEPENDENCIES:
+  - ProtocolBuffers-Swift (= 4.0.6)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - ProtocolBuffers-Swift
+
+SPEC CHECKSUMS:
+  ProtocolBuffers-Swift: 09b5cfcc641ab512d6aaa1d2cc3879a40432052c
+
+PODFILE CHECKSUM: acc3c0ffdb3726f75e5cd9044a482070ed94a88a
+
+COCOAPODS: 1.9.1
